@@ -9,6 +9,6 @@ Atividade avaliativa 08 da disciplina de linguagem de programação do curso té
 
 Exercicios: 
 
-[Exercicio 1](https://github.com/arturfabriciohahaedgy/infosatc-lp-avaliativo-08/blob/main/exercicio01.py)
+[Exercicio 1](https://github.com/arturfabriciohahaedgy/infosatc-lp-avaliativo-08/blob/main/Exercicio01.py)
 
-[Exercicio 2](https://github.com/arturfabriciohahaedgy/infosatc-lp-avaliativo-08/blob/main/exercicio02.py)
+[Exercicio 2](https://github.com/arturfabriciohahaedgy/infosatc-lp-avaliativo-08/blob/main/Exercicio02.py)
