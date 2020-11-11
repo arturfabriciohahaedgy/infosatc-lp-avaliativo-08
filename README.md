@@ -1,5 +1,5 @@
 # infosatc-lp-avaliativo-08
-
+![](https://www1.satc.edu.br/portais/acesso/public/assets/img/logoSatc.png)
 
                         Ano 2020 - Curso Técnico em Informatica 
 
